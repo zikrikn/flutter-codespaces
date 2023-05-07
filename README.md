@@ -45,7 +45,6 @@ Codespaces is not completely free. Free users have 120 core-hours per month and 
 
     > NOTE: If the PORTS tab still doesn't have port 3000, try doing Number 6 first then Number 5
 
-
 7. That's it! Make changes in `lib/main.dart`, press "R" in the terminal, then refresh the page to see your changes appear quickly.
 
 ### Using a sample
