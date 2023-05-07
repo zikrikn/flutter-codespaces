@@ -47,10 +47,6 @@ Codespaces is not completely free. Free users have 120 core-hours per month and 
 
 7. That's it! Make changes in `lib/main.dart`, press "R" in the terminal, then refresh the page to see your changes appear quickly.
 
-### Using a sample
-
-There are a collection of sample Flutter apps you can use. They're stored in the `samples` directory. If you want to use one of them, find the folder of the sample you want to use, then move the contents of the folder into the root of your repository. At minimum, this should overwrite `pubspec.yaml` and `lib`.
-
 ## Development Environment
 
 ### Developing in the browser
