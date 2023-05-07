@@ -43,6 +43,9 @@ Codespaces is not completely free. Free users have 120 core-hours per month and 
 
     > You can find the link to access the app in your browser at any time by going to the ports view, right clicking on port 3000, and pressing "Open in Browser".
 
+    > NOTE: If the PORTS tab still doesn't have port 3000, try doing Number 6 first then Number 5
+
+
 7. That's it! Make changes in `lib/main.dart`, press "R" in the terminal, then refresh the page to see your changes appear quickly.
 
 ### Using a sample
