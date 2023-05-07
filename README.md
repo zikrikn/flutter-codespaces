@@ -46,9 +46,9 @@ Codespaces is not completely free. Free users have 120 core-hours per month and 
 
 7. That's it! Make changes in `lib/main.dart`, press "R" in the terminal, then refresh the page to see your changes appear quickly.
 
-## Development Environment
+   > In order to use debugging, you'll need to use Chrome with the [Dart Debug extension](https://chrome.google.com/webstore/detail/dart-debug-extension/eljbmlghnomdjgdjmbdekegdkbabckhm?hl=en) installed.
 
-In order to use debugging, you'll need to use Chrome with the [Dart Debug extension](https://chrome.google.com/webstore/detail/dart-debug-extension/eljbmlghnomdjgdjmbdekegdkbabckhm?hl=en) installed.
+## Development Environment
 
 ### Developing in the browser
 
