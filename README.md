@@ -8,7 +8,6 @@ Flutter is a cross-platform UI framework by Google for building apps. Codespaces
 - [Important things to note](#important-things-to-note)
 - [Setup](#setup)
   - [Getting started](#getting-started)
-  - [Using a sample](#using-a-sample)
 - [Development Environment](#development-environment)
   - [Developing in the browser](#developing-in-the-browser)
   - [Developing in the desktop app](#developing-in-the-desktop-app)
