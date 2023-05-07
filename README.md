@@ -48,6 +48,8 @@ Codespaces is not completely free. Free users have 120 core-hours per month and 
 
 ## Development Environment
 
+In order to use debugging, you'll need to use Chrome with the [Dart Debug extension](https://chrome.google.com/webstore/detail/dart-debug-extension/eljbmlghnomdjgdjmbdekegdkbabckhm?hl=en) installed.
+
 ### Developing in the browser
 
 The browser-based VS Code is the default editor for Codespaces, and has most of the features you'd need. Opening your codespace from [github.com/codespaces](https://github.com/codespaces) will automatically open the browser-based editor.
